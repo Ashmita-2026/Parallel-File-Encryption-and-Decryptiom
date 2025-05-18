@@ -1,12 +1,13 @@
 # Parallel-File-Encryption-and-Decryption
 
 
-## TEAM MEMBERS
-### Misty Grover
-### Ashmita Barthwal
-### Vanshika Nag
+## TEAM MEMBERS :
+### 1) Misty Grover
+### 2) Ashmita Barthwal
+### 3)Vanshika Nag
 
-## Overview
+## Overview:
+
 This project implements a C++-based tool for file encryption and decryption using a simple ASCII-based algorithm. It is designed with a modular and object-oriented approach to ensure clarity, maintainability, and scalability. The project also considers the possibility of parallel execution to optimize performance.
 
 ## 🔧 Features
